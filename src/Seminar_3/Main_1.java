@@ -11,5 +11,7 @@ public class Main_1 {
         System.out.println(Arrays.toString(result));
 
         Task_2.removingEvenNumbers();
+
+        Task_3.maxMinAverageNumbers();
     }
 }
